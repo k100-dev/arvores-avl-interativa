@@ -1,1 +1,1 @@
-arvores-avl-interativa
+Repositório criado para estudos da matéria de Arvores Binárias.
